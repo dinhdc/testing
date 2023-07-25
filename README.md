@@ -1,6 +1,6 @@
 # Automation Testing by Python with Selenium
 
-## Step 1: Install Python3 on your machine 
+## Step 1: Install Python3 on your machine
 
 ## Step 2: Create your venv folder in this folder by run command: ```python3 -m venv venv```
 
