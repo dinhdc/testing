@@ -25,7 +25,6 @@ jobs:
         pip install -r requirements.txt  # If you have a requirements file, otherwise install pytest directly
     - name: setup chrome
       uses: browser-actions/setup-chrome@latest
-      run: chrome --version
 
     - name: Run pytest
       run: pytest  --browser=chrome
